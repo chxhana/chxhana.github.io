@@ -1,0 +1,11 @@
+title: "Chahana Dahal"
+description: "PhD student in Computer Science at the University of Nevada, Las Vegas"
+# Use a simple built‑in GitHub Pages theme. You can change this later
+remote_theme: pages-themes/minimal@v0.2.0
+# Plugins needed for GitHub Pages (feed for RSS)
+plugins:
+  - jekyll-feed
+
+# URL and baseurl can be left blank for user pages
+url: ""
+baseurl: ""

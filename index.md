@@ -3,6 +3,13 @@ layout: default
 title: "About Me"
 ---
 
+<!-- Hide the default theme's header (left sidebar with title/description/GitHub link) -->
+<style>
+  .site-header {
+    display: none;
+  }
+</style>
+
 <!-- Navigation bar -->
 <p style="font-size: 14px; margin-top: 0;">
   <a href="/">About</a> |

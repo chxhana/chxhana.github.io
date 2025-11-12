@@ -11,11 +11,14 @@ title: "About Me"
   <a href="/contact.html">Contact</a>
 </p>
 
-<!-- Profile header: left‑aligned image with name, tagline, and icons on the right -->
-<p>
-  <img src="/assets/profile.jpg" alt="Chahana Dahal" style="width: 150px; border-radius: 50%;">
-</p>
+<!-- Profile header: left-aligned image with name, tagline, and icons -->
+<div style="display: flex; align-items: flex-start; margin-top: 1rem;">
 
+  <!-- LEFT: profile image -->
+  <div style="flex: 0 0 160px; margin-right: 20px;">
+    <img src="/assets/profile.jpg" alt="Chahana Dahal"
+         style="width:150px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.25);">
+  </div>
 
   <!-- RIGHT: name, tagline, and icons -->
   <div>
@@ -24,7 +27,7 @@ title: "About Me"
       <em>PhD Student in Computer Science @ UNLV<br>
       Large Language Models · Knowledge Graphs · AI Safety</em>
     </p>
-    
+
     <!-- Icon links -->
     <p>
       <a href="mailto:dahalchahana1@gmail.com"><img src="https://img.icons8.com/ios-filled/22/000000/email.png" alt="Email"></a>
@@ -36,13 +39,14 @@ title: "About Me"
   </div>
 </div>
 
+
 ---
 
 ---
 
 ## About Me
 
-Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the University of Nevada, Las Vegas.  My research interests span large language models, knowledge graphs, AI safety and responsible AI.  I am currently developing benchmarks and techniques for **unlearning** in LLMs and knowledge‑graph‑augmented models.  I previously earned a B.S. in Computer Science with a minor in Data Science from Westminster University, graduating with a 3.97 GPA.
+Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the University of Nevada, Las Vegas.  My research interests span Large language models, Knowledge graphs, AI safety and Responsible AI. I previously earned a B.S. in Computer Science with a minor in Data Science from Westminster University, graduating with a 3.97 GPA. I am currently seeking for Summer 2026 internships opportunities.
 
 ## Recent News
 

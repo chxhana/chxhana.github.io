@@ -15,7 +15,7 @@ title: "Contact"
 
 I’m always happy to connect!  Please feel free to reach out via any of the channels below.
 
-- **Email:** [dahalchahana1@gmail.com](mailto:dahalchahana1@gmail.com)
+- **Email:** [chahana.dahal@unlv.edu](mailto:chahana.dahal@unlv.edu)
 - **LinkedIn:** [linkedin.com/in/chahanadahal](https://www.linkedin.com/in/chahanadahal/)
 - **GitHub:** [github.com/chxhana](https://github.com/chxhana)
 - **Google Scholar:** [scholar.google.com](https://scholar.google.com)

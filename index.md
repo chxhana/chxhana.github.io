@@ -24,6 +24,7 @@ title: "About Me"
       <em>PhD Student in Computer Science @ UNLV<br>
       Large Language Models · Knowledge Graphs · AI Safety</em>
     </p>
+    
     <!-- Icon links -->
     <p>
       <a href="mailto:dahalchahana1@gmail.com"><img src="https://img.icons8.com/ios-filled/22/000000/email.png" alt="Email"></a>
@@ -33,7 +34,7 @@ title: "About Me"
       <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/22/000000/google-scholar.png" alt="Google Scholar"></a>
     </p>
   </div>
-
+</div>
 
 ---
 

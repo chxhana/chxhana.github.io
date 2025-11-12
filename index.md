@@ -78,4 +78,4 @@ You can download my full curriculum vitae here: [Chahana Dahal CV]({{ site.baseu
 
 ---
 
-This website is powered by GitHub Pages using the minimal theme.  It is inspired by the layout of <a href="https://pritomsaha.github.io/">Pritom Saha Akash’s homepage</a>.
+This website is powered by GitHub Pages using the minimal theme. 

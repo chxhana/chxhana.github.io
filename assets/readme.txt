@@ -1,1 +1,1 @@
-headshot (2).jpeg
+profile.jpg

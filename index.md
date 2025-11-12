@@ -3,13 +3,6 @@ layout: default
 title: "About Me"
 ---
 
-<!-- Hide the default theme's header (left sidebar with title/description/GitHub link) -->
-<style>
-  .site-header {
-    display: none;
-  }
-</style>
-
 <!-- Navigation bar -->
 <p style="font-size: 14px; margin-top: 0;">
   <a href="/">About</a> |
@@ -19,12 +12,15 @@ title: "About Me"
 </p>
 
 <!-- Profile header: left‑aligned image with name, tagline, and icons on the right -->
-<div style="display: flex; align-items: center; margin-top: 1rem;">
-  <!-- LEFT: profile image -->
-  <div style="flex: 0 0 160px; margin-right: 20px;">
-    <img src="/assets/profile.jpg" alt="Chahana Dahal"
-         style="width:150px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.25);">
+<div style="display:flex; align-items:center;">
+  <img src="/assets/profile.jpg" alt="Chahana Dahal"
+       style="width:130px; border-radius:50%; margin-right:20px;">
+  <div>
+    <h2>{{ site.title }}</h2>
+    <p>{{ site.description }}</p>
   </div>
+</div>
+
 
   <!-- RIGHT: name, tagline, and icons -->
   <div>

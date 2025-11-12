@@ -1,0 +1,10 @@
+title: "Chahana Dahal"
+description: "PhD student in Computer Science at the University of Nevada, Las Vegas"
+# Use GitHub's minimal theme, which supports a clean layout similar to the example site.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-feed
+
+# Provide base URL settings for a user site; leave blank for user GitHub Pages.
+url: ""
+baseurl: ""

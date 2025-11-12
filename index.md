@@ -11,34 +11,34 @@ title: "About Me"
   <a href="/contact.html">Contact</a>
 </p>
 
-<!-- Top banner with name and tagline -->
-<h2>Chahana Dahal</h2>
+<!-- ====== Profile header aligned left ====== -->
+<div style="display: flex; align-items: center;">
 
-<p><em>PhD student in Computer Science @ UNLV | Large Language Models · Knowledge Graphs · AI Safety</em></p>
-
-<div style="display: flex; align-items: flex-start;">
-  <!-- Left column: profile picture -->
-  <div style="margin-right: 25px;">
+  <!-- LEFT: profile image -->
+  <div style="flex: 0 0 160px; margin-right: 25px;">
     <img src="/assets/profile.jpg" alt="Chahana Dahal"
-         style="width:150px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.2);">
+         style="width:150px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.25);">
   </div>
 
-  <!-- Right column: text and icons -->
+  <!-- RIGHT: name, tagline, and icons -->
   <div>
     <h2 style="margin-bottom: 5px;">Chahana Dahal</h2>
-    <p><em>PhD student in Computer Science @ UNLV<br>
-    Large Language Models · Knowledge Graphs · AI Safety</em></p>
+    <p style="margin-top: 0;">
+      <em>PhD Student in Computer Science @ UNLV<br>
+      Large Language Models · Knowledge Graphs · AI Safety</em>
+    </p>
 
-    <!-- Social icons -->
+    <!-- Icon links -->
     <p>
-      <a href="mailto:dahalchahana1@gmail.com"><img src="https://img.icons8.com/ios-filled/20/000000/email.png" alt="Email"></a>
-      <a href="https://www.linkedin.com/in/chahanadahal/"><img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png" alt="LinkedIn"></a>
-      <a href="https://github.com/chxhana"><img src="https://img.icons8.com/ios-filled/20/000000/github.png" alt="GitHub"></a>
-      <a href="{{ site.baseurl }}/files/Chahana_Dahal_CV.pdf"><img src="https://img.icons8.com/ios-filled/20/000000/resume.png" alt="CV"></a>
-      <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/20/000000/google-scholar.png" alt="Google Scholar"></a>
+      <a href="mailto:dahalchahana1@gmail.com"><img src="https://img.icons8.com/ios-filled/22/000000/email.png" alt="Email"></a>
+      <a href="https://www.linkedin.com/in/chahanadahal/"><img src="https://img.icons8.com/ios-filled/22/000000/linkedin.png" alt="LinkedIn"></a>
+      <a href="https://github.com/chxhana"><img src="https://img.icons8.com/ios-filled/22/000000/github.png" alt="GitHub"></a>
+      <a href="{{ site.baseurl }}/files/Chahana_Dahal_CV.pdf"><img src="https://img.icons8.com/ios-filled/22/000000/resume.png" alt="CV"></a>
+      <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/22/000000/google-scholar.png" alt="Google Scholar"></a>
     </p>
   </div>
 </div>
+
 
 
 ---

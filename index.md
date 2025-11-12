@@ -12,14 +12,9 @@ title: "About Me"
 </p>
 
 <!-- Profile header: left‑aligned image with name, tagline, and icons on the right -->
-<div style="display:flex; align-items:center;">
-  <img src="/assets/profile.jpg" alt="Chahana Dahal"
-       style="width:130px; border-radius:50%; margin-right:20px;">
-  <div>
-    <h2>{{ site.title }}</h2>
-    <p>{{ site.description }}</p>
-  </div>
-</div>
+<p>
+  <img src="/assets/profile.jpg" alt="Chahana Dahal" style="width: 150px; border-radius: 50%;">
+</p>
 
 
   <!-- RIGHT: name, tagline, and icons -->

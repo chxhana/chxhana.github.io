@@ -16,19 +16,26 @@ title: "About Me"
 
 <p><em>PhD student in Computer Science @ UNLV | Large Language Models · Knowledge Graphs · AI Safety</em></p>
 
-<!-- Follow links -->
+<!-- Profile picture: place your image at /assets/profile.jpg -->
 <p>
-  <strong>Follow:</strong>
-  <a href="https://github.com/chxhana">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/chahanadahal/">LinkedIn</a> ·
-  <a href="https://scholar.google.com">Google Scholar</a>
+  <img src="/assets/profile.jpg" alt="Chahana Dahal" style="width: 150px; border-radius: 50%;">
 </p>
+
+<!-- Follow links styled like the example site (bullet list) -->
+<p><strong>Follow:</strong></p>
+<ul>
+  <li><a href="mailto:dahalchahana1@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/chahanadahal/">LinkedIn</a></li>
+  <li><a href="https://github.com/chxhana">GitHub</a></li>
+  <li><a href="{{ site.baseurl }}/files/Chahana_Dahal_CV.pdf">CV</a></li>
+  <li><a href="https://scholar.google.com">Google Scholar</a></li>
+</ul>
 
 ---
 
 ## About Me
 
-Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the University of Nevada, Las Vegas.  My research interests span large language models, knowledge graphs, AI safety and responsible AI. I previously earned a B.S. in Computer Science with a minor in Data Science from Westminster University, graduating within 3 years.
+Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the University of Nevada, Las Vegas.  My research interests span Large Language models, Knowledge graphs, AI safety and Responsible AI. I previously earned a B.S. in Computer Science with a minor in Data Science from Westminster University, graduating with a 3.97 GPA.
 
 ## Recent News
 
@@ -43,7 +50,9 @@ Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the Universi
 ## Education
 
 - **Ph.D. in Computer Science**, University of Nevada, Las Vegas (Sept 2025 – May 2029)
+- **M.S. in Computer Science**, University of Nevada, Las Vegas (Sept 2025 – Dec 2026)
 - **B.S. in Computer Science**, Westminster University (2021 – 2024) — Minor in Data Science, GPA 3.97
+
 
 ## Publications
 

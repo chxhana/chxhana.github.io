@@ -16,20 +16,30 @@ title: "About Me"
 
 <p><em>PhD student in Computer Science @ UNLV | Large Language Models · Knowledge Graphs · AI Safety</em></p>
 
-<!-- Profile picture: place your image at /assets/profile.jpg -->
-<p>
-  <img src="/assets/profile.jpg" alt="Chahana Dahal" style="width: 150px; border-radius: 50%;">
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <!-- Left column: profile picture -->
+  <div style="margin-right: 25px;">
+    <img src="/assets/profile.jpg" alt="Chahana Dahal"
+         style="width:150px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.2);">
+  </div>
 
-<!-- Follow links styled like the example site (bullet list) -->
-<p><strong>Follow:</strong></p>
-<ul>
-  <li><a href="mailto:dahalchahana1@gmail.com">Email</a></li>
-  <li><a href="https://www.linkedin.com/in/chahanadahal/">LinkedIn</a></li>
-  <li><a href="https://github.com/chxhana">GitHub</a></li>
-  <li><a href="{{ site.baseurl }}/files/Chahana_Dahal_CV.pdf">CV</a></li>
-  <li><a href="https://scholar.google.com">Google Scholar</a></li>
-</ul>
+  <!-- Right column: text and icons -->
+  <div>
+    <h2 style="margin-bottom: 5px;">Chahana Dahal</h2>
+    <p><em>PhD student in Computer Science @ UNLV<br>
+    Large Language Models · Knowledge Graphs · AI Safety</em></p>
+
+    <!-- Social icons -->
+    <p>
+      <a href="mailto:dahalchahana1@gmail.com"><img src="https://img.icons8.com/ios-filled/20/000000/email.png" alt="Email"></a>
+      <a href="https://www.linkedin.com/in/chahanadahal/"><img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png" alt="LinkedIn"></a>
+      <a href="https://github.com/chxhana"><img src="https://img.icons8.com/ios-filled/20/000000/github.png" alt="GitHub"></a>
+      <a href="{{ site.baseurl }}/files/Chahana_Dahal_CV.pdf"><img src="https://img.icons8.com/ios-filled/20/000000/resume.png" alt="CV"></a>
+      <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/20/000000/google-scholar.png" alt="Google Scholar"></a>
+    </p>
+  </div>
+</div>
+
 
 ---
 

@@ -18,22 +18,12 @@ title: "About Me"
   <a href="/contact.html">Contact</a>
 </p>
 
-<!-- Profile header: left‑aligned image with name, tagline, and icons on the right -->
-<div style="display: flex; align-items: center; margin-top: 1rem;">
-  <!-- LEFT: profile image -->
-  <div style="flex: 0 0 160px; margin-right: 20px;">
-    <img src="/assets/profile.jpg" alt="Chahana Dahal"
-         style="width:150px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.25);">
-  </div>
+<div style="display: flex; align-items: flex-start; margin-top: 1rem;">
 
-  <!-- RIGHT: name, tagline, and icons -->
-  <div>
-    <h2 style="margin-bottom: 5px;">Chahana Dahal</h2>
-    <p style="margin-top: 0;">
-      <em>PhD Student in Computer Science @ UNLV<br>
-      Large Language Models · Knowledge Graphs · AI Safety</em>
-    </p>
-    <!-- Icon links -->
+  <!-- LEFT COLUMN: photo + icons -->
+  <div style="flex: 0 0 160px; text-align: center; margin-right: 20px;">
+    <img src="/assets/profile.jpg" alt="Chahana Dahal"
+         style="width:150px; border-radius:50%; box-shadow:0 0 5px rgba(0,0,0,0.25); margin-bottom:10px;">
     <p>
       <a href="mailto:dahalchahana1@gmail.com"><img src="https://img.icons8.com/ios-filled/22/000000/email.png" alt="Email"></a>
       <a href="https://www.linkedin.com/in/chahanadahal/"><img src="https://img.icons8.com/ios-filled/22/000000/linkedin.png" alt="LinkedIn"></a>
@@ -42,7 +32,6 @@ title: "About Me"
       <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/22/000000/google-scholar.png" alt="Google Scholar"></a>
     </p>
   </div>
-</div>
 
 ---
 

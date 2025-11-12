@@ -33,7 +33,7 @@ title: "About Me"
       <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/22/000000/google-scholar.png" alt="Google Scholar"></a>
     </p>
   </div>
-</div>
+
 
 ---
 

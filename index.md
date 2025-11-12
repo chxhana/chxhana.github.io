@@ -3,6 +3,13 @@ layout: default
 title: "About Me"
 ---
 
+<!-- Hide the default theme's header (left sidebar with title/description/GitHub link) -->
+<style>
+  .site-header {
+    display: none;
+  }
+</style>
+
 <!-- Navigation bar -->
 <p style="font-size: 14px; margin-top: 0;">
   <a href="/">About</a> |
@@ -43,12 +50,12 @@ title: "About Me"
 
 ## About Me
 
-Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the University of Nevada, Las Vegas.  My research interests span large language models, knowledge graphs, AI safety and responsible AI.  I previously earned a B.S. in Computer Science with a minor in Data Science from Westminster University, graduating within 3 years.
+Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the University of Nevada, Las Vegas.  My research interests span large language models, knowledge graphs, AI safety and responsible AI.  I am currently developing benchmarks and techniques for **unlearning** in LLMs and knowledge‑graph‑augmented models.  I previously earned a B.S. in Computer Science with a minor in Data Science from Westminster University, graduating with a 3.97 GPA.
 
 ## Recent News
 
 * **[08/2023]** Selected for the **Google Computer Science Research Mentorship Program (CSRMP)** — working with mentor on NLP and education.
-* **[12/2023]** Selected for the **AAAI‑24 Undergraduate Consortium Scholar**.
+* **[12/2023]** Selected for the **AAAI 2024 Undergraduate Consortium Scholar**.
 * **[03/2024]** My paper *“Revolutionizing Education through AI‑Powered Inclusive Learning Systems”* was **accepted to the AAAI 2024 Undergraduate Consortium**.
 * **[08/2025]** One paper accepted to **EMNLP 2025 Findings** — *“Federated Retrieval‑Augmented Generation: A Systematic Mapping Study.”*
 * **[09/2025]** One paper accepted to **WiML @ NeurIPS 2025** — *“How Well Do LLMs Unlearn Facts? - A Knowledge Graph Perspective.”*

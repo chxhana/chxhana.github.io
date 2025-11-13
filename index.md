@@ -34,7 +34,7 @@ title: "About Me"
       <a href="https://www.linkedin.com/in/chahanadahal/"><img src="https://img.icons8.com/ios-filled/22/000000/linkedin.png" alt="LinkedIn"></a>
       <a href="https://github.com/chxhana"><img src="https://img.icons8.com/ios-filled/22/000000/github.png" alt="GitHub"></a>
       <a href="{{ site.baseurl }}/files/Chahana_Dahal_CV.pdf"><img src="https://img.icons8.com/ios-filled/22/000000/resume.png" alt="CV"></a>
-      <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en"><img src="https://img.icons8.com/ios-filled/22/000000/google-scholar.png" alt="Google Scholar"></a>
+      <a href="https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en&authuser=1"><img src="https://img.icons8.com/ios-filled/22/000000/google-scholar.png" alt="Google Scholar"></a>
     </p>
   </div>
 </div>

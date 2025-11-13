@@ -18,6 +18,6 @@ I’m always happy to connect!  Please feel free to reach out via any of the cha
 - **Email:** [chahana.dahal@unlv.edu](mailto:chahana.dahal@unlv.edu)
 - **LinkedIn:** [linkedin.com/in/chahanadahal](https://www.linkedin.com/in/chahanadahal/)
 - **GitHub:** [github.com/chxhana](https://github.com/chxhana)
-- **Google Scholar:** [scholar.google.com](https://scholar.google.com)
+- **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=hoVraLUAAAAJ&hl=en&authuser=1)
 
 If you have questions about my research or would like to explore collaboration opportunities, please include a brief overview of your interest or project in your message.

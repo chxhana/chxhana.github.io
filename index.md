@@ -56,7 +56,7 @@ Hi! I’m **Chahana Dahal**, a Ph.D. student in Computer Science at the Universi
 * **[08/2025]** One paper accepted to **EMNLP 2025 Findings** — *“Federated Retrieval‑Augmented Generation: A Systematic Mapping Study.”*
 * **[09/2025]** One paper accepted to **WiML @ NeurIPS 2025** — *“How Well Do LLMs Unlearn Facts? - A Knowledge Graph Perspective.”*
 * **[05/2026]** One paper accepted to **IEEE Transactions on Artificial Intelligence 2026** — *“Multi-Agent Systems in Education: A Survey from the Trustworthiness Perspective”*
-* **[05/2026]** Started my PhD internship at Western Digital (WD) for Summer 2026**
+* **[05/2026]** Started my PhD internship at Western Digital (WD) for Summer 2026.
 * **[08/2026]** One paper accepted to **EMNLP 2026 Findings** — *“GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping”*
 
 ---
